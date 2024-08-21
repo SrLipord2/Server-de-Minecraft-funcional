@@ -1,5 +1,8 @@
 #Servidor comunitario, código base. 
+#
 # 
+# Día 1
+#  
 # 
 # 
 # Versiones disponibles
@@ -19,6 +22,8 @@
 # sa		      Sudamérica (São Paulo)
 # us		      Estados unidos (Ohio)
 # us-cal-1	      Estados unidos (California)
+
+
 
 
 
