@@ -1,6 +1,10 @@
 #Servidor comunitario, código base. 
 #
 # 
+# 
+# 
+# 
+#  
 # Día 1
 # Día 2
 #
